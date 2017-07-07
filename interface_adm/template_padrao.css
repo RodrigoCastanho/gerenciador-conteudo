@@ -1,0 +1,103 @@
+/*
+        Copyright (C) <2011>  <Rodrigo F Castanho>
+
+        This program is free software: you can redistribute it and/or modify
+        it under the terms of the GNU General Public License as published by
+        the Free Software Foundation, either version 3 of the License, or
+        (at your option) any later version.
+
+        This program is distributed in the hope that it will be useful,
+        but WITHOUT ANY WARRANTY; without even the implied warranty of
+        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+        GNU General Public License for more details.
+
+        You should have received a copy of the GNU General Public License
+        along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+#pg_banner{ 
+    border-style: none;
+    color: black;
+    background:url(bannert.png) repeat-x;
+    width: 700px;
+    height: 100px;
+    margin-top: -6.8px;
+    margin-left: -7px;
+
+}
+#pg_menu{
+    border-style: groove;
+    border-width: 2px;
+    color: black;
+    background: #fff;
+    width:174px;
+    height: 200px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    margin-top: -450px;
+    margin-left: -8px;
+        
+}
+#pg_conteudo{
+    border-style: groove;
+    border-width: 2px;
+    color:black;    
+    background: #fff;
+    width: 900px;
+    height: 450px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    margin-top: 70px;
+    margin-left: 300px;    
+}
+#pg_rodape{
+    border-style: none;
+    color: black;
+    background: #fff0f5;
+    width: 450px;
+    height: 45px;
+    margin-top: 260px; 
+    margin-left: 300px;
+}    
+/*------------Menu configuracao------------------*/    
+#menu_config{
+    width: 12em;
+    padding: 0;
+    margin: 0;
+    font: 14px Verdana, sans-serif;
+} 
+#menu_config ul {
+    list-style: none;
+    margin: 0;
+    padding: 0; 
+}
+#menu_config li {
+    border-bottom: 1px solid #f00; 
+    margin: 0;    
+}    
+#menu_config li a{
+   display: block;
+   padding: 5px 5px 5px 0.5em;
+   font-weight:bold;
+   border-left: 10px solid;
+   border-right: 10px solid #fff;
+   color: black;
+   text-decoration: none;    
+}
+#menu_config li a:hover{
+   border-left: 10px solid;
+   border-right: 10px solid #fff;
+   color: blue;    
+}    
+
+
+
+
+
+
+
+

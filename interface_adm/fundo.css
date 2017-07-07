@@ -1,0 +1,115 @@
+/*
+        Copyright (C) <2011>  <Rodrigo F Castanho>
+
+        This program is free software: you can redistribute it and/or modify
+        it under the terms of the GNU General Public License as published by
+        the Free Software Foundation, either version 3 of the License, or
+        (at your option) any later version.
+
+        This program is distributed in the hope that it will be useful,
+        but WITHOUT ANY WARRANTY; without even the implied warranty of
+        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+        GNU General Public License for more details.
+
+        You should have received a copy of the GNU General Public License
+        along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+#fundo { 
+        border-style:none; 
+        height:780px; 
+        background-image: url("");  
+       }
+#banner_menu{
+             font-size: 18px; 
+             color: yellow;
+             margin-left: 30px;
+            }       
+
+#menu_controle_geral{
+        border-style: none;
+        color: yellow;
+        background: darkgray;
+        width: 200px;
+        height: 260px;
+        position: absolute;
+        left: 10px;
+        top: 430px;     
+       }
+#image{
+       border-style: none;
+       border-color: #f00;
+       width:  296px;
+       height: 250px;
+       background-image: url("Coruja.jpg");
+       margin-top:  40px; 
+       margin-left: 491px;
+      } 
+#campo_texto{
+        border-style: none;
+        width:  480px;
+        height: 300px;
+        margin-top:  -250px; 
+        margin-left: 4px;
+        border-color: white;
+        font-size: 16px;
+        text-decoration: none; 
+        text-align: justify;
+        color: white;  
+      }                    
+#menu_controle{
+        border-style: none;
+        color: yellow;
+        background: darkgrey;
+        width: 200px;
+        height: 200px;
+        position: absolute;
+        left: 10px;
+        top: 216px;   
+}  
+#conteudo_inicio{
+        border-style: none;
+        color: yellow;
+        background: darkgray;
+        width: 800px;
+        height: 415px;
+        position: absolute;
+        left: 270px;
+        top: 216px;      
+}
+/*------------Menu Gerencial-----------------------*/
+#menu_gerencial{
+    width: 16.5em;
+    padding: 0;
+    margin-top: 60px;
+    font: 12px Verdana, sans-serif;
+} 
+#menu_gerencial ul {
+    list-style: none;
+    margin: 0;
+    padding: 0; 
+}
+#menu_gerencial li {
+    border: 1px solid yellow;
+    border-bottom: 1px solid yellow;
+    margin: 0;    
+}    
+#menu_gerencial li a{
+   display: block;
+   padding: 10px 10px 10px 0.5em;
+   font-weight:bold;
+   color: black;
+   text-decoration: none;    
+}
+#menu_gerencial li a:hover{
+   border: 1px solid yellow;
+   border-bottom: 1px solid yellow;
+   background-color: black;
+   font: 14px Verdana, sans-serif; 
+   color: white;    
+}    

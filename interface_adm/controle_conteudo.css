@@ -1,0 +1,38 @@
+/*
+        Copyright (C) <2011>  <Rodrigo F Castanho>
+
+        This program is free software: you can redistribute it and/or modify
+        it under the terms of the GNU General Public License as published by
+        the Free Software Foundation, either version 3 of the License, or
+        (at your option) any later version.
+
+        This program is distributed in the hope that it will be useful,
+        but WITHOUT ANY WARRANTY; without even the implied warranty of
+        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+        GNU General Public License for more details.
+
+        You should have received a copy of the GNU General Public License
+        along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+#template_icon {
+         border-style:none;
+         border-color: red;
+         width:  109px;
+         height: 109px;
+         margin-top: 145px;
+         margin-left: 150px;          
+}
+#conteudo_icon{
+         border-style:none;
+         border-color: red;
+         width:  109px;
+         height: 109px;
+         margin-top: -110px;
+         margin-left: 540px;    
+}

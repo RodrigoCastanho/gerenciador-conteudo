@@ -1,0 +1,110 @@
+/*
+        Copyright (C) <2011>  <Rodrigo F Castanho>
+
+        This program is free software: you can redistribute it and/or modify
+        it under the terms of the GNU General Public License as published by
+        the Free Software Foundation, either version 3 of the License, or
+        (at your option) any later version.
+
+        This program is distributed in the hope that it will be useful,
+        but WITHOUT ANY WARRANTY; without even the implied warranty of
+        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+        GNU General Public License for more details.
+
+        You should have received a copy of the GNU General Public License
+        along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+#controle_acss{
+      border-style: groove;
+      border-width: 3px;
+      color: blue;
+      width: 150px;
+      height: 30px;
+      margin-top: 320px;
+      margin-left: 100px;
+
+}
+#log_acss{
+      border-style: groove;
+      border-width: 3px;
+      color: blue;
+      width: 150px;
+      height: 30px;
+      margin-top: 1px;
+      margin-left: 100px;     
+}
+#email_acss{
+      border-style: groove;
+      border-width: 3px;
+      color: blue;
+      width: 150px;
+      height: 30px;
+      margin-top: 1px;
+      margin-left: 100px;
+    
+}
+/*Instruções abaixo são os texto dos botões */
+#texto1{
+    font-size: 12px;
+    font-family:sans-serif;
+    margin-top: -19px;   
+    margin-left: 25px;
+}
+#texto2{
+    font-size: 12px;
+    font-family:sans-serif;
+    margin-top: -18px;   
+    margin-left: 25px;
+}
+#texto3{
+    font-size: 12px;
+    font-family:sans-serif;
+    margin-top: 2px;   
+    margin-left: 25px;
+}
+/*São DIVS manipuladas por instruções Jquery*/
+#parte1{
+      border-style: groove;
+      border-width: 3px;
+      color: blue;
+      width: 360px;
+      height: 350px;
+      margin-top: -110px;
+      margin-left: 400px;    
+}
+#parte2{
+      border-style: groove;
+      border-width: 3px;
+      color: black;
+      width: 400px;
+      height: 450px;
+      margin-top: -110px;
+      margin-left: 400px;    
+}
+#parte3{
+      border-style: groove;
+      border-width: 3px;
+      color: red;
+      width: 400px;
+      height: 250px;
+      margin-top: -110px;
+      margin-left: 400px;    
+}
+/*Controla os inputs em HTML*/
+#inp{
+     margin-top: 30px;   
+     margin-left: 30px;
+
+}
+#botao1{
+    position: absolute;
+    top:352px;
+    left:630px;
+    
+}
