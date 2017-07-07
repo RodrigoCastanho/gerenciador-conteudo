@@ -1,0 +1,141 @@
+/*
+        Copyright (C) <2011>  <Rodrigo F Castanho>
+
+        This program is free software: you can redistribute it and/or modify
+        it under the terms of the GNU General Public License as published by
+        the Free Software Foundation, either version 3 of the License, or
+        (at your option) any later version.
+
+        This program is distributed in the hope that it will be useful,
+        but WITHOUT ANY WARRANTY; without even the implied warranty of
+        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+        GNU General Public License for more details.
+
+        You should have received a copy of the GNU General Public License
+        along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+#fundo_criaconta{
+     border-style:none;
+     width: 35%;
+     height:510px; 
+     background-image: url(fundocconta.png);
+     background-repeat: no-repeat;
+     position: absolute;
+     top: 40%;
+     right:32%;
+        
+}
+#fundo_senha{
+   border-style:none;
+   width: 99.9%;
+   height: 247px;
+   background-image: url(fundosenha.png);
+   background-repeat: no-repeat;
+   position: absolute;
+   top:45%; 
+    
+}
+
+#input1{
+      border-style: groove;
+      margin-top: 80px;
+      margin-left: 55px;
+      width: 250px;
+      font-size: 15px;
+      font-family: 'Times New Roman',Times,serif;     
+}
+#input2{
+      border-style: groove;
+      margin-top: 30px;
+      margin-left: 15px;
+      width: 250px;
+      font-size: 15px;
+      font-family: 'Times New Roman',Times,serif;     
+}
+#input3{
+      border-style: groove;
+      margin-top: 30px;
+      margin-left: 61px;
+      width: 250px;
+      font-size: 15px;
+      font-family: 'Times New Roman',Times,serif;     
+}
+#input4{
+      border-style: groove;
+      margin-top: 55px;
+      margin-left: 15px;
+      width: 250px;
+      font-size: 15px;
+      font-family: 'Times New Roman',Times,serif;     
+}
+#input5{
+      border-style: groove;
+      margin-top: 30px;
+      margin-left: 107px;
+      width: 160px;
+      font-size: 15px;
+      font-family: 'Times New Roman',Times,serif;     
+}
+#input6{
+      border-style: groove;
+      margin-top: 25px;
+      margin-left: 15px;
+      width: 160px;
+      font-size: 15px;
+      font-family: 'Times New Roman',Times,serif;     
+}
+#botao{
+       margin-top: 35px; 
+       margin-left: 70px;
+       width: 80px;
+       height: 30px;
+       background-image: url(botaocadastro.jpeg);
+       background-repeat: no-repeat;
+ 
+       
+}
+#fonte{
+      font-size: 15px; 
+      padding-left: 5px;
+      color: yellow;
+}
+
+/*Parte da aba Opcoes--------------------*/
+#fundo_opcoes{
+      border-style: none;
+      width: 360px;
+      height: 400px;
+      background-image: url("opcaofundo.png");
+      background-repeat: no-repeat;
+      position: absolute;
+      top: 44%;
+      right:40%;
+}
+#input_op{
+      border-style: groove;
+      margin-top: 85px; 
+      margin-left: 28px;
+}
+#input_op2{
+     border-style: groove;
+     margin-top: 15px;
+     margin-left: 7px;
+     
+}
+#input_op3{
+     border-style: groove;
+     margin-top: 15px;
+     margin-left: 18px;
+    
+}
+#input_op4{
+     border-style: groove;
+     margin-top: 15px; 
+     width: 80px;
+}
