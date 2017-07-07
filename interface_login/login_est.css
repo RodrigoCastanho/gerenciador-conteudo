@@ -1,0 +1,74 @@
+/*
+        Copyright (C) <2011>  <Rodrigo F Castanho>
+
+        This program is free software: you can redistribute it and/or modify
+        it under the terms of the GNU General Public License as published by
+        the Free Software Foundation, either version 3 of the License, or
+        (at your option) any later version.
+
+        This program is distributed in the hope that it will be useful,
+        but WITHOUT ANY WARRANTY; without even the implied warranty of
+        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+        GNU General Public License for more details.
+
+        You should have received a copy of the GNU General Public License
+        along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/2011/REC-CSS2-20110607
+*/
+
+#login{ 
+      border-style: groove;
+      color:  black;
+      width: 400px; 
+      height: 250px; 
+      position: absolute; 
+      top:  35%; /*250*/
+      left:  35%; /*440*/
+      background-image: url("login_back.png");
+      background-repeat: no-repeat;
+}
+#login_erro{ 
+     
+      color:  black;
+      width: 400px;
+      height: 250px;
+      position: absolute; 
+      top:  250px;
+      left: 440px;
+      background-image: url("login_back_erro.png");
+      background-repeat: no-repeat;
+}    
+     
+#input{
+      border-style: groove;
+      margin-top: 30px;
+      width: 160px;
+      font-size: 15px;
+      font-family: 'Times New Roman',Times,serif;     
+}
+#input1{
+      border-style: groove;
+      margin-top: 30px;
+      margin-left: 8px;
+      width: 160px;
+      font-size: 15px;
+      font-family: 'Times New Roman',Times,serif;     
+}
+#botao{
+       margin-top: 9px; 
+       margin-left: 113px;   
+}
+#fonte{
+      font-size: 20px; 
+      padding-left: 5px;
+}
+#fonte1{
+        font-size: 20px;
+        color:  red;
+        padding-top: 115px;
+        padding-left:43px;
+}
