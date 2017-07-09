@@ -1,42 +1,46 @@
-﻿# Content Management System (CMS)
-Developer:---  Rodrigo F Castanho
+﻿# Sistema Gerenciador de Conteúdos(CMS)
+
+Desenvolvedor:---  Rodrigo F Castanho
+
 E-mail:--- <rodrigo.fcastanho@gmail.com>
+
 Twitter:--[@R0d5160](https://twitter.com/R0d5160) 
 
 [![logotipo.jpg](https://s11.postimg.org/cf0i6cnib/logotipo.jpg)](https://postimg.org/image/vwv5makfz/)
 
-It is a Web Content Management System, also known as CMS (Custom Management System). It is a project that I developed as the subject of my TCC (Course Completion Work), focused on helping small businesses keep files and Web content being site and internal systems (intranet), all at no cost by the software.
+É um Sistema Gerenciador de Conteúdos Web, também conhecido nas sigla CMS(Custom Management System), É um projeto que desenvolvi como tema do meu TCC(Trabalho de Conclusão de Curso), possui o foco em ajudar pequenas empresas a manter organização de arquivos e conteúdos web sendo site e sistemas interno(intranet), tudo isso sem custo pelo software.
 
-### Technology
+### Tecnologia
 
-System Content Manager was developed using the LAMP architecture:
+Sistema Gerenciador de Conteúdos foi desenvolvido utilizando a arquitetura LAMP:
 
 * [L] - Linux
 * [A] - Apache
 * [M] - MySQL
 * [P] - PHP
 
-### Installation
+### Instalação
 
-As soon as you download the software files independent of the directory you have, you will have to unpack the files after moving it (mv) to the apache directory, /var/www or htdocs depending on your linux distribution or Apache web server installation follow the commands Below as an example:
+Assim que baixar os arquivos do software independente do diretório que tiver, tera que descompactar os arquivos depois movê-lo(mv) para o diretório apache, /var/www ou htdocs dependo da sua distribuição linux ou instalação do servidor web Apache segue os comandos abaixo como exemplo:
 
 ```
 # tar -xf Sistema_Gerenciador_de_Conteudo.tar
 # mv Sistema_Gerenciador_de_Conteudo /var/www
 ```
-After passing the file to Apache web directory you will have to apply permissions on the whole directory
+Depois de passar o arquivo para diretório web do Apache tera que aplicar permissões em todo o diretório 
 
 ```
 # chmod 777 -R Sistema_Gerenciador_de_Conteudo/
 ```
-Now just open the System in your browser to type in url
+Agora só abrir o Sistema em seu navegador de preferencia digitar url:
 ```
 localhost/Sistema_Gerenciador_de_Conteudo
 ```
-Note: System works best browsers with Mozilla code
+Obs: Sistema funciona melhor navegadores com o código Mozilla
 
-### Structure 
-Content Management System Directories
+### Estrutura
+ 
+Diretórios do Sistema Gerenciador de Conteúdos 
 ```
 * cd /Sistema_Gerenciador_de_Conteudo
         /index.php 
@@ -48,14 +52,14 @@ Content Management System Directories
         /interface_pg_inicial
         /jquery
 ```
-### Contribution
+### Contribuição
 
-As said in the text above this system was my subject of TCC (Course Conclusion Work) so it was not finished, there is a lot to be done and improved, I intend to continue to develop it but whoever wants to contribute gives tips and even continues I am very grateful.
+Como dito no texto acima esse sistema foi meu tema de TCC(Trabalho de Conclusão de Curso) então não foi terminado falta muito a ser feito e melhorado, pretendo continuar a desenvolvê-lo mas quem quiser contribuir dar dicas e até continua fico muito grato.
 
-#### License
+#### Licença 
 
 [![GPLv3.png](https://www.gnu.org/graphics/gplv3-127x51.png)](https://postimg.org/image/vwv5makfz/)
 
-**GPLv3, Free Software**
+**GPLv3, Software Livre**
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
