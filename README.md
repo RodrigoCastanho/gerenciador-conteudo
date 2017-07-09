@@ -6,7 +6,7 @@ E-mail:--- <rodrigo.fcastanho@gmail.com>
 
 Twitter:--[@R0d5160](https://twitter.com/R0d5160) 
 
-Select Language: [English](https://github.com/RodrigoCastanho/gerenciador-conteudo/edit/master/README-us.md), [Portuguese Brazil](https://github.com/RodrigoCastanho/gerenciador-conteudo/edit/master/README.md)
+Select Language: [English](https://github.com/RodrigoCastanho/gerenciador-conteudo/edit/master/README-us.md), [Portuguese Brazil](https://github.com/RodrigoCastanho/gerenciador-conteudo)
 
 [![logotipo.jpg](https://s11.postimg.org/cf0i6cnib/logotipo.jpg)](https://postimg.org/image/vwv5makfz/)
 
