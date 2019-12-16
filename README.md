@@ -6,8 +6,6 @@ E-mail:--- <rodrigo.fcastanho@gmail.com>
 
 Select Language: [English](https://github.com/RodrigoCastanho/gerenciador-conteudo/blob/master/README-us.md), [Portuguese Brazil](https://github.com/RodrigoCastanho/gerenciador-conteudo)
 
-[![logotipo.jpg](https://s11.postimg.org/cf0i6cnib/logotipo.jpg)](https://postimg.org/image/vwv5makfz/)
-
 É um Sistema Gerenciador de Conteúdos Web, também conhecido nas sigla CMS(Custom Management System), É um projeto que desenvolvi como tema do meu TCC(Trabalho de Conclusão de Curso), possui o foco em ajudar pequenas empresas a manter organização de arquivos e conteúdos web sendo site e sistemas interno(intranet), tudo isso sem custo pelo software.
 
 ### Tecnologia
