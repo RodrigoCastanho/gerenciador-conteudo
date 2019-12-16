@@ -6,8 +6,6 @@ E-mail:--- <rodrigo.fcastanho@gmail.com>
 
 Select Language: [English](https://github.com/RodrigoCastanho/gerenciador-conteudo/blob/master/README-us.md), [Portuguese Brazil](https://github.com/RodrigoCastanho/gerenciador-conteudo)
 
-[![logotipo.jpg](https://s11.postimg.org/cf0i6cnib/logotipo.jpg)](https://postimg.org/image/vwv5makfz/)
-
 It is a Web Content Management System, also known as CMS (Custom Management System). It is a project that I developed as the subject of my TCC (Course Completion Work), focused on helping small businesses keep files and Web content being site and internal systems (intranet), all at no cost by the software.
 
 ### Technology
